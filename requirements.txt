@@ -1,0 +1,18 @@
+# ITA_MODULE 1 - Final project dependencies - Sales analysis
+#
+# Recommended minimum versions:
+# Python 3.10 or higher
+
+numpy>=2.0
+pandas>=2.0
+matplotlib>=3.8
+
+
+# ENG_MODULE 1 - Final project dependencies - Sales analysis
+#
+# Recommended minimum versions:
+# Python 3.10 or higher
+
+numpy>=2.0
+pandas>=2.0
+matplotlib>=3.8
