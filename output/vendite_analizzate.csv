@@ -1,0 +1,51 @@
+data,negozio,prodotto,quantita,prezzo_unitario,incasso,categoria,Incasso_totale,Quantita_media
+2026-02-27,Verona,Monitor 144Hz-2K,9,350.0,3150.0,Informatica,178600.0,11.44
+2026-04-25,Roma,PC Gaming,4,1800.0,7200.0,Informatica,178600.0,11.44
+2026-10-07,Verona,Monitor 144Hz-2K,19,350.0,6650.0,Informatica,178600.0,11.44
+2026-01-17,Verona,TV OLed,3,1500.0,4500.0,TV,99000.0,11.0
+2026-04-30,Torino,PC Gaming,20,1800.0,36000.0,Informatica,178600.0,11.44
+2026-10-15,Roma,Smartphone,18,199.99,3599.82,Telefonia,20198.99,11.22
+2026-04-23,Napoli,TV OLed,19,1500.0,28500.0,TV,99000.0,11.0
+2026-01-04,Roma,Air Pods,14,45.0,630.0,Audio,28545.0,11.63
+2026-05-23,Roma,Air Pods,7,45.0,315.0,Audio,28545.0,11.63
+2026-02-22,Verona,Air Pods,13,45.0,585.0,Audio,28545.0,11.63
+2026-07-03,Milano,Smartphone,20,199.99,3999.8,Telefonia,20198.99,11.22
+2026-01-23,Bologna,Air Pods,15,45.0,675.0,Audio,28545.0,11.63
+2026-03-05,Napoli,SoundBar,3,200.0,600.0,Audio,28545.0,11.63
+2026-05-31,Bologna,SoundBar,20,200.0,4000.0,Audio,28545.0,11.63
+2026-10-23,Roma,Air Pods,3,45.0,135.0,Audio,28545.0,11.63
+2026-12-05,Roma,Smartphone,10,199.99,1999.9,Telefonia,20198.99,11.22
+2026-04-30,Verona,Smartphone,13,199.99,2599.87,Telefonia,20198.99,11.22
+2026-08-21,Bologna,Air Pods,12,45.0,540.0,Audio,28545.0,11.63
+2026-07-09,Milano,PC Gaming,7,1800.0,12600.0,Informatica,178600.0,11.44
+2026-05-17,Bologna,Monitor 144Hz-2K,3,350.0,1050.0,Informatica,178600.0,11.44
+2026-11-22,Roma,SoundBar,18,200.0,3600.0,Audio,28545.0,11.63
+2026-05-06,Roma,Monitor 144Hz-2K,15,350.0,5250.0,Informatica,178600.0,11.44
+2026-05-19,Bologna,TV OLed,18,1500.0,27000.0,TV,99000.0,11.0
+2026-12-17,Milano,PC Gaming,2,1800.0,3600.0,Informatica,178600.0,11.44
+2026-01-17,Milano,PC Gaming,13,1800.0,23400.0,Informatica,178600.0,11.44
+2026-02-03,Roma,Air Pods,19,45.0,855.0,Audio,28545.0,11.63
+2026-06-11,Roma,Monitor 144Hz-2K,16,350.0,5600.0,Informatica,178600.0,11.44
+2026-11-26,Napoli,TV OLed,5,1500.0,7500.0,TV,99000.0,11.0
+2026-03-13,Roma,Air Pods,18,45.0,810.0,Audio,28545.0,11.63
+2026-05-15,Bologna,SoundBar,19,200.0,3800.0,Audio,28545.0,11.63
+2026-10-26,Napoli,TV OLed,12,1500.0,18000.0,TV,99000.0,11.0
+2026-03-12,Torino,PC Gaming,16,1800.0,28800.0,Informatica,178600.0,11.44
+2026-01-25,Verona,Smartphone,5,199.99,999.95,Telefonia,20198.99,11.22
+2026-03-23,Bologna,Monitor 144Hz-2K,14,350.0,4900.0,Informatica,178600.0,11.44
+2026-02-02,Napoli,SoundBar,13,200.0,2600.0,Audio,28545.0,11.63
+2026-08-28,Torino,SoundBar,9,200.0,1800.0,Audio,28545.0,11.63
+2026-01-06,Bologna,SoundBar,4,200.0,800.0,Audio,28545.0,11.63
+2026-10-02,Milano,Monitor 144Hz-2K,11,350.0,3850.0,Informatica,178600.0,11.44
+2026-05-31,Napoli,Smartphone,6,199.99,1199.94,Telefonia,20198.99,11.22
+2026-01-02,Bologna,TV OLed,9,1500.0,13500.0,TV,99000.0,11.0
+2026-04-02,Torino,SoundBar,4,200.0,800.0,Audio,28545.0,11.63
+2026-06-02,Bologna,Monitor 144Hz-2K,17,350.0,5950.0,Informatica,178600.0,11.44
+2026-04-12,Roma,SoundBar,12,200.0,2400.0,Audio,28545.0,11.63
+2026-10-04,Torino,PC Gaming,1,1800.0,1800.0,Informatica,178600.0,11.44
+2026-06-15,Napoli,SoundBar,1,200.0,200.0,Audio,28545.0,11.63
+2026-07-05,Milano,Smartphone,8,199.99,1599.92,Telefonia,20198.99,11.22
+2026-05-04,Torino,Smartphone,3,199.99,599.97,Telefonia,20198.99,11.22
+2026-09-06,Verona,Smartphone,18,199.99,3599.82,Telefonia,20198.99,11.22
+2026-03-07,Bologna,PC Gaming,16,1800.0,28800.0,Informatica,178600.0,11.44
+2026-03-26,Milano,SoundBar,17,200.0,3400.0,Audio,28545.0,11.63
