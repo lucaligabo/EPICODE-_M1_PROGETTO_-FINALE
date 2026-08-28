@@ -54,7 +54,7 @@ vendite = {
 # Genera 50 vendite casuali
 for _ in range(50):
     prodotto = random.choice(prodotti)
-    vendite["data"].append((datetime(2026, 1, 1) + timedelta(days=random.randint(0, 365))).strftime("%Y-%m-%d"))
+    vendite["data"].append(datetime(2026, 1, 1) + timedelta(days=random.randint(0, 365)))
     vendite["negozio"].append(random.choice(negozi))
     vendite["prodotto"].append(prodotto)
     vendite["quantita"].append(random.randint(1, 20))
